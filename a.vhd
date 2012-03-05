@@ -7,15 +7,3 @@ entity a is
 		y : out std_logic
 	);
 end entity a;
-
-architecture RTL1 of a is
-	
-begin
-
-end architecture RTL1;
-
-architecture RTL2 of a is
-	
-begin
-
-end architecture RTL2;

@@ -7,15 +7,3 @@ entity c is
 		y : in std_logic
 	);
 end entity c;
-
-architecture RTL1 of c is
-	
-begin
-
-end architecture RTL1;
-
-architecture RTL2 of c is
-	
-begin
-
-end architecture RTL2;
