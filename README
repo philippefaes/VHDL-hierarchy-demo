@@ -1,0 +1,8 @@
+This project demonstrates three ways of how to configure a VHDL chip structure:
+
+1. Adapt the build scripts
+2. Direct instantitation with generates
+3. Configurations
+
+This project can easily be imported in the free Sigasi Starter Edition: 
+http://www.sigasi.com/sigasi-starter-edition
